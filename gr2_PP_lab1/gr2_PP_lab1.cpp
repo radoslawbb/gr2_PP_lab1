@@ -16,6 +16,7 @@ int main()
     printf("XX   XX      XX      XX  \n");
     printf("XX    XX     XX      XX  \n");
     printf("XX     XX    XXXXXXXX    \n");
+    352te
 }*/
 
 int main()
