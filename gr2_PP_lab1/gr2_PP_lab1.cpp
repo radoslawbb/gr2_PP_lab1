@@ -4,6 +4,20 @@
 #include <iostream>
 using namespace std;
 
+/*
+zadanie 1.
+int main()
+{
+    printf("XXXXXXX      XXXXXXX     \n");
+    printf("XX    XX     XX    XX    \n");
+    printf("XX     XX    XX     XX   \n");
+    printf("XX    XX     XX    XX    \n");
+    printf("XXXXXX       XXXXXXXX    \n");
+    printf("XX   XX      XX      XX  \n");
+    printf("XX    XX     XX      XX  \n");
+    printf("XX     XX    XXXXXXXX    \n");
+}*/
+
 int main()
 {
     printf("XXXXXXX      XXXXXXX     \n");
