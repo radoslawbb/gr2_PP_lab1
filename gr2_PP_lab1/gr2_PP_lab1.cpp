@@ -6,9 +6,14 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello World!\n";
-    cout << "Hello World!\n";
-    cout << "Hello World!\n";
+    printf("XXXXXXX      XXXXXXX     \n");
+    printf("XX    XX     XX    XX    \n");
+    printf("XX     XX    XX     XX   \n");
+    printf("XX    XX     XX    XX    \n");
+    printf("XXXXXX       XXXXXXXX    \n");
+    printf("XX   XX      XX      XX  \n");
+    printf("XX    XX     XX      XX  \n");
+    printf("XX     XX    XXXXXXXX    \n");
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
