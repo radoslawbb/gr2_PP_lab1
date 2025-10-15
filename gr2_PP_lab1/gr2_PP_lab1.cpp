@@ -5,7 +5,7 @@
 using namespace std;
 
 /*
-zadanie 1.
+zadanie 1. printf
 int main()
 {
     printf("XXXXXXX      XXXXXXX     \n");
@@ -18,16 +18,18 @@ int main()
     printf("XX     XX    XXXXXXXX    \n");
 }*/
 
+
+//zadanie 1 cout
 int main()
 {
-    printf("XXXXXXX      XXXXXXX     \n");
-    printf("XX    XX     XX    XX    \n");
-    printf("XX     XX    XX     XX   \n");
-    printf("XX    XX     XX    XX    \n");
-    printf("XXXXXX       XXXXXXXX    \n");
-    printf("XX   XX      XX      XX  \n");
-    printf("XX    XX     XX      XX  \n");
-    printf("XX     XX    XXXXXXXX    \n");
+    cout << "XXXXXXX      XXXXXXX     \n";
+    cout << "XX    XX     XX    XX    \n";
+    cout << "XX     XX    XX     XX   \n";
+    cout << "XX    XX     XX    XX    \n";
+    cout << "XXXXXX       XXXXXXXX    \n";
+    cout << "XX   XX      XX      XX  \n";
+    cout << "XX    XX     XX      XX  \n";
+    cout << "XX     XX    XXXXXXXX    \n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
