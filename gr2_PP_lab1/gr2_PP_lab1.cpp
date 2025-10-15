@@ -16,9 +16,10 @@ int main()
     printf("XX   XX      XX      XX  \n");
     printf("XX    XX     XX      XX  \n");
     printf("XX     XX    XXXXXXXX    \n");
+    return 0;
 }*/
 
-
+/*
 //zadanie 1 cout
 int main()
 {
@@ -30,7 +31,40 @@ int main()
     cout << "XX   XX      XX      XX  \n";
     cout << "XX    XX     XX      XX  \n";
     cout << "XX     XX    XXXXXXXX    \n";
+    return 0;
 }
+//Zadanie 2
+int main() {
+    printf("               *               \n");
+    printf("              ***              \n");
+    printf("             *****             \n");
+    printf("    ***********************    \n");
+    printf("      *******************      \n");
+    printf("        ***************        \n");
+    printf("         ************          \n");
+    printf("        ***************        \n");
+    printf("       *****        *****      \n");
+    printf("      ***              ***     \n");
+
+    return 0;
+}*/
+
+
+int main() {
+    cout << "               *               \n";
+    cout << "              ***              \n";
+    cout << "             *****             \n";
+    cout << "    ***********************    \n";
+    cout << "      *******************      \n";
+    cout << "        ***************        \n";
+    cout << "         ************          \n";
+    cout << "        ***************        \n";
+    cout << "       *****       *****      \n";
+    cout << "      ***             ***     \n";
+
+    return 0;
+}
+
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
