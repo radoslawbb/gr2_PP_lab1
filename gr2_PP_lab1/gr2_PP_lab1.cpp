@@ -49,7 +49,8 @@ int main() {
     return 0;
 }*/
 
-
+//zadanie 2 cout
+/*
 int main() {
     cout << "               *               \n";
     cout << "              ***              \n";
@@ -61,6 +62,13 @@ int main() {
     cout << "        ***************        \n";
     cout << "       *****       *****      \n";
     cout << "      ***             ***     \n";
+
+    return 0;
+}*/
+
+//zadanie 3 printf
+int main() {
+    
 
     return 0;
 }
